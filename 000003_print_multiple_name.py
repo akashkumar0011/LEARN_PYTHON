@@ -1,0 +1,1 @@
+print("akash kumar","bca","ddu",sep="-")
